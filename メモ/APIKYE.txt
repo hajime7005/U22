@@ -1,6 +1,4 @@
-USER�Fnissi80
+Google Maps API 系のAPI-Key
+僕の個人アカウントで作ってるから悪用しないでね💛
 
-Google Maps JavaScript API�FAIzaSyBp5WWek2UfefRedLBrejFP4rBtk0Z8Qc4
-
-
-
+Google Maps JavaScript API：AIzaSyBp5WWek2UfefRedLBrejFP4rBtk0Z8Qc4
